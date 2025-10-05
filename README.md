@@ -14,7 +14,7 @@ This repository contains a comprehensive EDA of 62,239 Spotify tracks with 22 au
 
 ```bash
 # Clone the repository
-git clone https://github.com/RayBreeze/Spotify_Track_Analysis_TMP.git
+git clone https://github.com/RayBreeze/Spotify_Track_Analysis.git
 cd spotify-data-analysis
 
 # Install dependencies
